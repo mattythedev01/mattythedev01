@@ -47,6 +47,3 @@
 <a href="https://hyper.is/" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/hyper.svg" alt="hyper" width="40" height="40"/> </a> 
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://github.com/DiogoMarques2003/DiogoMarques2003/blob/main/.github/logos/spring-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
-
-
-![Snake animation](https://github.com/mattythedev01/mattythedev01/blob/output/github-contribution-grid-snake.svg)
